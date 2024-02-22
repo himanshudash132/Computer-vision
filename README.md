@@ -4,7 +4,7 @@
 
 This project presents a driver drowsiness detection app built using YOLOv8 and PyTorch. The application analyzes driver behavior through video frames and triggers voice alerts if drowsiness is detected, promoting road safety. The user interface (UI) is developed using tkinter.
 
-## Skills
+## Used
 
 - PyTorch
 - YOLOv8
