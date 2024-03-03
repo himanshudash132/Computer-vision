@@ -7,7 +7,7 @@ This project presents a driver drowsiness detection app built using YOLOv8 and P
 ## Used
 
 - PyTorch
-- YOLOv8
+- YOLOv5
 - Deep Learning
 - Image Classification
 - OpenCV
